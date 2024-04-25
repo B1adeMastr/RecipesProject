@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQZYDs5z0f9Efl/wzP50WBIjvZD8XHa8b/YmJK5A7dw+1zbnx5ADwtozVT+ffeVw0M2zBK1kuDEz4r8hUlQMKg==",
+  "dgSpecHash": "fE+bzo8neuJA+1O0yjHPwZg1ZfVmDfX4NAkuF1/v01zoJlT0SVk02cp7za1n6ytoyeBZbmjwS7mml/ws7H5+QA==",
   "success": true,
-  "projectFilePath": "/Users/colinbeary/Projects/Recipes/Recipes/Recipes.csproj",
+  "projectFilePath": "/Users/colinbeary/Projects/Recipes/Recipes/Recipes.Library.csproj",
   "expectedPackageFiles": [
     "/Users/colinbeary/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/colinbeary/.nuget/packages/microsoft.data.sqlite.core/7.0.0/microsoft.data.sqlite.core.7.0.0.nupkg.sha512",

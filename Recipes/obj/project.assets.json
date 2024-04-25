@@ -1303,9 +1303,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/colinbeary/Projects/Recipes/Recipes/Recipes.csproj",
-      "projectName": "Recipes",
-      "projectPath": "/Users/colinbeary/Projects/Recipes/Recipes/Recipes.csproj",
+      "projectUniqueName": "/Users/colinbeary/Projects/Recipes/Recipes/Recipes.Library.csproj",
+      "projectName": "Recipes.Library",
+      "projectPath": "/Users/colinbeary/Projects/Recipes/Recipes/Recipes.Library.csproj",
       "packagesPath": "/Users/colinbeary/.nuget/packages/",
       "outputPath": "/Users/colinbeary/Projects/Recipes/Recipes/obj/",
       "projectStyle": "PackageReference",
