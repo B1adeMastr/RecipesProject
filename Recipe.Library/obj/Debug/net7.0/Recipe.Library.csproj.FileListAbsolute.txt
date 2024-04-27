@@ -1,0 +1,15 @@
+C:\Recipe\Recipe.Library\bin\Debug\net7.0\Database\Recipe.db
+C:\Recipe\Recipe.Library\bin\Debug\net7.0\Recipe.Library.deps.json
+C:\Recipe\Recipe.Library\bin\Debug\net7.0\Recipe.Library.runtimeconfig.json
+C:\Recipe\Recipe.Library\bin\Debug\net7.0\Recipe.Library.dll
+C:\Recipe\Recipe.Library\bin\Debug\net7.0\Recipe.Library.pdb
+C:\Recipe\Recipe.Library\obj\Debug\net7.0\Recipe.Library.csproj.AssemblyReference.cache
+C:\Recipe\Recipe.Library\obj\Debug\net7.0\Recipe.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Recipe\Recipe.Library\obj\Debug\net7.0\Recipe.Library.AssemblyInfoInputs.cache
+C:\Recipe\Recipe.Library\obj\Debug\net7.0\Recipe.Library.AssemblyInfo.cs
+C:\Recipe\Recipe.Library\obj\Debug\net7.0\Recipe.Library.csproj.CoreCompileInputs.cache
+C:\Recipe\Recipe.Library\obj\Debug\net7.0\Recipe.Library.dll
+C:\Recipe\Recipe.Library\obj\Debug\net7.0\refint\Recipe.Library.dll
+C:\Recipe\Recipe.Library\obj\Debug\net7.0\Recipe.Library.pdb
+C:\Recipe\Recipe.Library\obj\Debug\net7.0\Recipe.Library.genruntimeconfig.cache
+C:\Recipe\Recipe.Library\obj\Debug\net7.0\ref\Recipe.Library.dll
